@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Bvr#2025** (Discord)
 
-- 🍰 I'm a **French** of **19**yo
+- 💻 I'm a web front-end developer.
 
 ## 🚀 Languages and Tools:
 
