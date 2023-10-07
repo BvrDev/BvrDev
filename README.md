@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **private** projects.
 
-- 📫 How to reach me **Bvr#2025** (Discord)
+- 📫 How to reach me **@rightthere** (Discord)
 
 - 💻 I'm a web front-end developer.
 
