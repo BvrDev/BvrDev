@@ -57,6 +57,3 @@
 <br>
 <a href="#"><img src="https://komarev.com/ghpvc/?username=bvrdev&label=Profile%20views&color=0e75b6&style=flat"></a>
 <br>
-<a href="https://twitter.com/BvrDev" target="blank"><img src="https://img.shields.io/twitter/follow/BvrDev?logo=twitter&style=for-the-badge" alt="bvrondiscord"/></a>
-<br>
-<a href="#"><img src="https://discord.c99.nl/widget/theme-4/444100600183914498.png" alt="discord"/></a>
