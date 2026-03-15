@@ -1,11 +1,11 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bvr</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Right There!</h1>
 <h3 align="center">Passionate french developer!</h3>
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **private** projects.
 
-- 📫 How to reach me **@rightthere** (Discord)
+- 📫 How to reach me: **contact@rightthere.fr**
 
 - 💻 I'm a web front-end developer.
 
